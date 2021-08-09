@@ -1,2 +1,2 @@
-Lysizyme	Chicken	LYSC_CHICK P00698
-Lysozyme 	Human   LYSC_HUMAN P61626
+PFKM	Human	PFKAM_HUMAN O08237
+Pfkm 	Mouse   PFKAM_MOUSE P47857
