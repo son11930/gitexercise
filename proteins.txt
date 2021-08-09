@@ -1,3 +1,3 @@
-Lysozyme	Chicken LYSC_CHICK P006398 147
+Hemoglobin-alpha	Human HBA_HUMAN P69905 142
 Lysozyme	Human	Lysc_HUMAN P61626 148
 Lysozyme	Mouse	LYZ1_MOUSE P17897 148
