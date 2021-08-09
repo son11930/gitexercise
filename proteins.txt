@@ -1,3 +1,4 @@
 Hemoglobin-alpha	Human HBA_HUMAN P69905 141
 Lysozyme	Human	Lysc_HUMAN P61626 148
+PFKM		Rat	PFKAM_RAT  P47858 780
 Lysozyme	Mouse	LYZ1_MOUSE P17897 148
