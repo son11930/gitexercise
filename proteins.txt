@@ -1,2 +1,3 @@
 Lysozyme	Chicken LYSC_CHICK P006398 147
 Lysozyme	Human	Lysc_HUMAN P61626 148
+PFKM		Rat	PFKAM_RAT  P47858 780
