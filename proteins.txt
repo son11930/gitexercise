@@ -1,0 +1,2 @@
+Lysizyme	Chicken	LYSC_CHICK P00698
+Lysozyme 	Human   LYSC_HUMAN P61626
